@@ -1,3 +1,5 @@
 [01-Apr-2025 20:40:11 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221As4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
 [01-Apr-2025 20:50:36 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221As4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
 [01-Apr-2025 21:56:19 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221As4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[01-Apr-2025 22:06:52 UTC] PHP Warning:  file_get_contents(/workspaces/UX221As4/.wordpress/wp-content/themes/twentytwentyfive/style.css): Failed to open stream: No such file or directory in /workspaces/UX221As4/.wordpress/wp-includes/functions.php on line 6893
+[01-Apr-2025 22:06:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /workspaces/UX221As4/.wordpress/wp-includes/functions.php:6893) in /workspaces/UX221As4/.wordpress/wp-admin/admin-header.php on line 9
